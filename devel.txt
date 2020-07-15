@@ -1,0 +1,2 @@
+Based on Fruit Shop API, created by Thomas Bayer:
+https://api.predic8.de/shop/docs#!/categories/getShopCategoriesId
