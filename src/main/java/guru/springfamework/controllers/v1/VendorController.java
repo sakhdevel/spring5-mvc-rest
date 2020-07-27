@@ -11,8 +11,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Created by jt on 10/6/17.
  */
-//@Api(hidden = "This is a vendor's controller")
-@Api(tags = "This is a vendor's controller")
+@Api(description = "This is my Vendor API")
 @RestController
 @RequestMapping(VendorController.BASE_URL)
 public class VendorController {
